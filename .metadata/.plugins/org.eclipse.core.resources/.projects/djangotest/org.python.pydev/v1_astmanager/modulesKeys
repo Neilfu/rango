@@ -1,0 +1,16 @@
+MODULES_MANAGER_V2
+djangotest.__init__|C:\Users\fuhuiwen\workspace\djangotest\djangotest\__init__.py
+djangotest.settings|C:\Users\fuhuiwen\workspace\djangotest\djangotest\settings.py
+djangotest.urls|C:\Users\fuhuiwen\workspace\djangotest\djangotest\urls.py
+djangotest.wsgi|C:\Users\fuhuiwen\workspace\djangotest\djangotest\wsgi.py
+manage|C:\Users\fuhuiwen\workspace\djangotest\manage.py
+populate_rango|C:\Users\fuhuiwen\workspace\djangotest\populate_rango.py
+rango.__init__|C:\Users\fuhuiwen\workspace\djangotest\rango\__init__.py
+rango.admin|C:\Users\fuhuiwen\workspace\djangotest\rango\admin.py
+rango.bing_search|C:\Users\fuhuiwen\workspace\djangotest\rango\bing_search.py
+rango.forms|C:\Users\fuhuiwen\workspace\djangotest\rango\forms.py
+rango.models|C:\Users\fuhuiwen\workspace\djangotest\rango\models.py
+rango.urls|C:\Users\fuhuiwen\workspace\djangotest\rango\urls.py
+rango.views|C:\Users\fuhuiwen\workspace\djangotest\rango\views.py
+urls|C:\Users\fuhuiwen\workspace\djangotest\rango\urls.py
+views|C:\Users\fuhuiwen\workspace\djangotest\rango\views.py

@@ -1,0 +1,96 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\Users\fuhuiwen\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\djangotest\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+models|0|C:\Users\fuhuiwen\workspace\djangotest\rango\models.py
+views|0|C:\Users\fuhuiwen\workspace\djangotest\rango\views.py
+urls|0|C:\Users\fuhuiwen\workspace\djangotest\rango\urls.py
+-- END DISKCACHE
+-- START DICTIONARY
+20
+7=bing_search
+16=CategoryForm
+2=populate_rango
+8=urls
+19=PageForm
+15=PageForm.Meta
+9=djangotest.urls
+3=djangotest.settings
+17=UserProfileForm
+5=models
+12=Category
+1=views
+11=Page
+14=UserForm.Meta
+13=UserProfileForm.Meta
+4=djangotest.wsgi
+10=UserProfile
+20=CategoryForm.Meta
+6=forms
+18=UserForm
+-- END DICTIONARY
+-- START TREE 1
+42
+!<m|0|
+abo|1|about!10@
+add|4|add_page!10@add_page!18@add_category!10@add_cat!18@
+adm|1|ADMINS!27@
+all|1|ALLOWED_HOSTS!27@
+app|1|application!35@
+ca|0|
+cat|3|category!10@Category!41@CategoryForm!49@
+dat|2|DATABASES!27@DATABASE_PATH!27@
+deb|1|DEBUG!27@
+get|1|get_category_list!10@
+ind|1|index!10@
+ins|1|INSTALLED_APPS!27@
+lan|1|LANGUAGE_CODE!27@
+lik|1|like_category!10@
+log|2|LOGGING!27@LOGIN_URL!27@
+lou|0|
+man|1|MANAGERS!27@
+med|2|MEDIA_URL!27@MEDIA_ROOT!27@
+mid|1|MIDDLEWARE_CLASSES!27@
+pag|2|PageForm!49@Page!41@
+pop|1|populate!18@
+pro|2|profile!10@PROJECT_PATH!27@
+ran|0|
+reg|1|register!10@
+res|1|restricted!10@
+roo|1|ROOT_URLCONF!27@
+ru|0|
+run|1|run_query!58@
+sea|1|search!10@
+sec|1|SECRET_KEY!27@
+ses|1|SESSION_SERIALIZER!27@
+set|1|SETTINGS_DIR!27@
+sit|1|SITE_ID!27@
+sta|5|STATIC_ROOT!27@STATIC_URL!27@STATIC_PATH!27@STATICFILES_DIRS!27@STATICFILES_FINDERS!27@
+sug|1|suggest_category!10@
+tem|4|TEMPLATE_PATH!27@TEMPLATE_LOADERS!27@TEMPLATE_DIRS!27@TEMPLATE_DEBUG!27@
+tim|1|TIME_ZONE!27@
+tra|1|track_url!10@
+url|2|urlpatterns!67@urlpatterns!75@
+use|8|UserProfileForm!49@UserProfile!41@USE_I18N!27@user_logout!10@user_login!10@USE_L10N!27@USE_TZ!27@UserForm!49@
+wsg|1|WSGI_APPLICATION!27@
+-- END TREE
+-- START TREE 2
+17
+!<m|0|
+M|0|
+__|0|
+__u|3|__unicode__!10&42@__unicode__!11&42@__unicode__!12&42@
+cat|1|category!11&43@
+fie|3|fields!13&51@fields!14&51@fields!15&51@
+lik|2|likes!12&43@likes!16&51@
+met|4|Meta!17&49@Meta!18&49@Meta!19&49@Meta!16&49@
+mod|4|model!13&51@model!14&51@model!15&51@model!20&51@
+nam|2|name!16&51@name!12&43@
+pas|1|password!18&51@
+pic|1|picture!10&43@
+tit|2|title!11&43@title!19&51@
+url|2|url!19&51@url!11&43@
+use|1|user!10&43@
+vie|4|views!16&51@views!19&51@views!12&43@views!11&43@
+web|1|website!10&43@
+-- END TREE
